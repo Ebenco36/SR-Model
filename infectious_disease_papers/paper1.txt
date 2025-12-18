@@ -1,0 +1,15 @@
+A systematic review of antiretroviral therapy adherence in Sub-Saharan Africa.
+42 studies with 15,000 HIV-positive patients were included.
+Adherence to ART was 78% (95% CI 72-84%).
+Barriers included stigma and distance to clinics.
+Methods:
+We searched PubMed, Scopus, and Web of Science from January 1990 to March 2024. 
+After removing duplicates, 1,240 records were screened, and 137 full-text articles were assessed for eligibility.
+Seventy articles were excluded due to incomplete data, leaving 67 studies for analysis. 
+Two reviewers independently screened all titles and abstracts.
+
+Results:
+A total of 67 studies (n = 88,345 participants) from 25 countries were included. 
+The largest sample sizes were from China (n = 35,812), the United States (n = 10,437), and Germany (n = 7,670). 
+Other notable sample sizes included Bangladesh (n = 2,909), Ethiopia (n = 2,033), Egypt (n = 3,204), and Vietnam (n = 2,945).
+Fourteen were randomized controlled trials, ten cohort studies, and three case-control studies.

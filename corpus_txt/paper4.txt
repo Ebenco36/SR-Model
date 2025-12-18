@@ -1,0 +1,230 @@
+The Uptake of Human Papillomavirus Vaccination and Its Associated Factors Among Adolescents: A Systematic Review
+Alice Yuen Loke alice.yuen.loke@polyu.edu.hk, Miu Ling Kwan, […], and Alice Kar Yan Wong+1View all authors and affiliations
+All Articles
+https://doi.org/10.1177/2150131917742299
+
+Contents
+PDF/EPUB
+Cite
+Share options
+Information, rights and permissions
+Metrics and citations
+Figures and tables
+Abstract
+Background: The purpose of this review was to explore the uptake of the human papillomavirus (HPV) vaccination, its associated factors, and the facilitators of and barriers to HPV vaccination among adolescents. Methods: A comprehensive literature search was conducted through 5 electronic databases, including PubMed, CINAHL, Cochrane Library, Medline, and PsycInfo from January 2006 to March 2015 for studies examining the uptake, awareness, knowledge, acceptability, and intention of adolescents with regard to HPV vaccination. Results: Twenty-eight studies were identified and included. The HPV vaccination uptake rate (at least 1 dose) varied significantly among countries, ranging from 2.4% to 94.4%. Scotland achieved the highest uptake of all the studies included in this review, while Hong Kong had the lowest, at 2.4% to 9.1%. This review also showed that adolescents had limited awareness and knowledge of HPV infections and vaccines, even 10 years after the vaccine had become available. Conclusions: It is recommended that barriers to the uptake of the vaccine should be addressed, and that school-based sexual health education of HPV infection and vaccine promotion should be reinforced.
+Background
+Human papillomavirus (HPV) infection creates a significant disease burden worldwide and is an important topic in public health. HPV infection is the most common sexually transmitted infection.1 It is estimated that 75% of sexually active people are infected with HPV during their lifetime.2 There are many genotypes of the HPV. HPV types 6 and 11 are the cause of 90% of cases of genital warts, whereas HPV types 16 and 18 are considered to be high-risk viruses, contributing to 70% of cases of cervical cancer.3 These virus subtypes will undergo cytopathologic changes, causing cervical intraepithelial neoplasia, which could eventually evolve to cervical cancer after approximately 2 decades.3
+Cervical cancer is the fourth leading cause of female cancer and ranks as the second most common form of cancer globally among females aged 15 to 44 years.4 Cervical cancer accounted for 5.2% of the cancer burden worldwide, leading to 530 000 new cases and 270 000 deaths every year for the past decades.5 Apart from cervical cancer, HPV can cause precancerous lesions, anogenital warts and other cancers of the vulva, vagina, penis, anus, and oropharynx.6
+A prophylactic HPV vaccine was approved and licensed in 2006, and has been available since then, to prevent HPV associated infections targeting females aged 9 to 26 years.7 In late 2009, it was recommended that the quadrivalent HPV vaccine for males also be approved.8 By 2014, the Food and Drug Administration (FDA) approved another new HPV vaccine to provide additional protection against more types of HPV.9
+Many countries now include the HPV vaccination in their national vaccination program.10 In 2007-2009, Australia successfully launched a national HPV vaccination program offering free vaccinations for females between the ages of 12 and 26 years. Three-dose coverage of the HPV vaccine among school girls aged 12 to 17 years was estimated to be 70% in 2009.11 As a result of the vaccination program, the incidence of genital warts has fallen sharply and nearly disappeared among young people. By 2011, the fourth year of the national vaccination program, cases of genital warts in women younger than 21 years declined from 18.6% to 1.9%, and from 22.9% to 2.9% in heterosexual men younger than 21 years.12 In the United States, private health insurance covers the cost of HPV vaccinations, while children under Medicaid are eligible and uninsured children are covered by the Vaccines for Children program.13
+As many as 19 countries in Europe (Austria, Belgium, Denmark, France, Germany, Greece, Iceland, Ireland, Italy, Latvia, Luxembourg, the Netherlands, Norway, Portugal, Romania, Slovenia, Spain, Sweden, and the United Kingdom) also introduced a program of routine HPV vaccinations in 2012. Coverage rates ranged from 17% to 84%, and 10 out of the 19 countries organized catch-up programs by May 2012.14 In Africa, a total of 21 developing countries have also implemented HPV vaccination projects among young girls under the support of a public-private partnership, the Global Alliance for Vaccines and Immunizations since 2013. An estimated 206 000 girls from low-income countries are expected to benefit from these projects.15
+With the widespread promotion of the HPV vaccine, HPV associated infections can be prevented.1 It is crucial that the HPV vaccine be administered prior to exposure to the virus, which is ideally before the initial incidence of sexual intercourse.16,17 Given that the first peak of HPV infection occurs when people are in their 20s,18 to protect against HPV infection, prophylactic HPV vaccination is being promoted for adolescents before they have begun engaging in sexual activity.
+Factors Contributing to the Uptake of HPV Vaccination
+Since the introduction of HPV vaccines, many studies have been conducted in different countries to examine the various factors affecting the uptake of vaccinations. Health-seeking behaviors are determined by a number of factors, including awareness and knowledge.19 Knowledge can be regarded as a prerequisite for informed decision making.20 The acceptability of a vaccine, defined as the willingness of an individual to be vaccinated, is another factor that contributes to its uptake.21 Numerous studies have been conducted in various countries on knowledge relating to HPV vaccination and its acceptability and uptake since the first vaccine was introduced. However, little is known about the comparison across various countries about the knowledge, acceptability, and uptake of HPV vaccination among adolescents. The vaccine uptake rate essentially determines the success of the coverage of HPV vaccination, which in the long run reduces the burden of diseases associated with HPV.
+Prior to this study, there was no systematic review of the uptake of HPV vaccination and its associated factors among adolescents. The aim of this review was to explore the uptake of the vaccination (including acceptability and intention), the associated factors (awareness and knowledge), and the facilitators of and barriers to HPV vaccination. The information in this systematic review will have significant implications for the drawing up of necessary health strategies/vaccination programs to promote the uptake of HPV vaccination.
+Methods
+This systematic review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. The search strategy, inclusion and exclusion criteria, study selection approach, evaluation of the quality of the studies, and data extraction process are described below.
+Search Strategy
+A comprehensive literature search was conducted using five electronic databases related to health care, namely, the PubMed, CINAHL, Cochrane Library, Medline, and PsycInfo. Searches were limited to articles published between January 2006 and March 4, 2017, as the HPV vaccine has only been licensed since 2006. A search was conducted using the keywords: adolescen* OR girl* OR boy* OR male OR female OR parent*; AND human papillomavirus vaccine* OR HPV; AND uptake; AND knowledge* OR barrier* OR accept* OR intent*. Reference lists of review articles were retrieved to identify additional sources of literature.
+Inclusion and Exclusion Criteria
+Included for consideration were studies published in the English language, original research articles including observational studies and quantitative studies, and articles that examined the uptake of HPV vaccination and associated factors such as the awareness, knowledge, acceptance, and intention of adolescents. Articles identified through the databases were excluded if they were in a language other than English or if no full-text version of the article was available. The following studies were excluded: studies that involved modeling, studies discussing the cost-effectiveness of HPV vaccines, conference proceedings, editorials, comments, letters, and conference abstracts; or articles that focused on the basic sciences, and not on the uptake of HPV vaccination. The studies that were included were first reviewed with a focus on the uptake of HPV vaccination, followed by an examination of associated factors including knowledge and acceptability.
+Selecting Studies in Accordance With PRISMA
+Figure 1 is the PRISMA flow diagram, which depicts the flow of literature selection process through different phases of the systematic review. A total of 911 articles were identified through a keyword search of 5 electronic databases, and an additional 6 articles were identified through a hand search. After the duplicates were removed, 618 articles remained.
+
+Figure 1. PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) flow diagram.
+The articles were screen by examining the title and abstract according to the inclusion and exclusion criteria. A total of 512 articles were excluded for the following reasons: no data on vaccination uptake (n = 136), provision of factual information on the HPV vaccine (n = 28), discussion of general attitudes toward HPV (n = 14), adolescents were not the target population (n = 67), and factual information on HPV infections and related diseases (n = 267).
+The remaining 106 full-text articles were further assessed for eligibility, and a further 64 were excluded. Those that were excluded were qualitative studies (n = 2), studies in which adolescents were not the target population (n = 27), articles that contained factual information on the HPV vaccine (n = 2), articles that duplicated data in reports (n = 2), studies that did not provide data on population size (n = 21), articles in which the data provided in the text were inconsistent with the data in the resulting tables (n = 1), and articles that contained no report on uptake (n = 9). The remaining 42 studies were included in this review.
+Evaluation of the Quality of the Studies
+After the PRISMA selection process, the articles that were included underwent a critical appraisal. The Critical Appraisal Skills Programme (CASP) checklist was used as the tool to appraise the quality of the selected articles.22 The CASP critical appraisal checklist is divided into 3 parts, which includes a total of 11 questions to assess the internal validity of the study the results, and the relevance of the results to practice. The first 2 items are screening questions to assess whether the study is relevant and worth assessing.22 Scores of 7 or higher in the CASP checklist are considered the threshold for “reasonable quality.”23 The critical appraisal was performed by 2 reviewers (MLK and AKYW) working independently. In the case of discrepancies, the 2 reviewers either tried to come to a consensus or brought in a third person to serve as a judge.
+Almost all the articles that were included were considered to be of good quality (total score ≥7), with the exception of 4 studies that were assessed as being of moderate quality (see Supplementary Table 1 available online). Those 5 studies were included for their usefulness in expanding the global comparison made in this review.
+Data Extraction
+The process of extracting data was conducted by 2 reviewers working independently. The key information in these studies were extracted and tabulated, and included the following: the name of the author(s), the year of publication, and the country/region in which the study was conducted, the research objective(s), characteristics of the participants, age and gender of the adolescents, sample size, response rates, the study design, study setting, time frame for collecting the data, and key relevant findings (see Appendix I available online).
+Results
+The process of selecting the literature is shown in the PRISMA flow diagram (Figure 1). Twenty-eight articles met the inclusion criteria were included in the review (see Appendix II available online).
+Populations of the Included Studies
+Of the 42 studies, which focused on the HPV vaccination of adolescents, nearly half (22/42, 52.4%) had been conducted in the United States, 10 in Europe, including the United Kingdom (n = 3), 2 in Norway, and 1 each in the Netherlands, Germany, France, Denmark, and Latvia. Six studies were conducted in Asia, 3 of them in Hong Kong, and 1 each in Taiwan, Malaysia, and Japan. Canada and Australia each accounted for 1 study.
+Among these studies, 28 focused on females, 6 on males, and 7 studies included both male and female adolescents. These adolescents ranged in age from 9 to 21 years. The number of participants ranged from 60 to 1 204 588. The sample size was large for some studies, since data were retrieved from the databases of government registries or surveillance programmes. In as many as 14 studies, the data were retrieved from national vaccination registries. Of the other 28 studies, 12 obtained data directly from the adolescent participants, 14 collected data by proxy from the adolescents’ parents or caregivers, and 2 from both the adolescents and their parents. Table 1 summarizes relevant details of the selected studies on HPV vaccination.
+Table 1. Characteristics of Studies Examining Human Papillomavirus Vaccination Uptake Profiles Across Countries/Regions.
+ 	 	 	 	 	 	 	Acceptability (%)	Vaccination Intention (%)	Actual Uptake (%)
+ 	Authors, Year	Year of data	Country/Region	N	Age of Adolescents, Years (Mean)	Sex	Adolescents	Parents	Adolescents	Parents	At Least First Dose	Second Dose	Third Dose
+Asia	Al-Naggar et al, 2012	2011	Malaysia	612	13-17 (13.93 ± 1.9)	F	—	—	—	—	77.9	—	—
+Hayashi et al, 2012	2010-2011	Japan	1254	11-15 (NR)	F	—	—	—	—	64.8	62.7	48.2
+Lee et al, 2012	2008	Taiwan	1438	16-18 (NR)	F	—	—	—	—	66.0	64.0	63.0
+ 	2009	 	368	16 (NR)	 	—	—	—	—	92.0	89.0	86.0
+ 	2010	 	379	16 (NR)	 	—	—	—	—	91.0	91.0	89.0
+Choi et al, 2013	2008	Hong Kong	1022	11-18 (NR)	F	27.1	27.5	—	—	2.4	—	—
+2012	2164	—	37.6	—	—	9.1	—	—
+Li et al, 2013	2011-2012	Hong Kong	1832	NR (15.5 ± 2.0)	F	—	—	—	—	7.2	—	—
+Lee et al, 2014	2010	Hong Kong	1414	13-21 (16.53 ± 1.95)	F	—	—	34.8	—	6.7	—	—
+Europe	Brabin et al, 2008	2007	UK	2817	12-13 (NR)	F	—	—	—	—	70.6	68.5	—
+Potts et al, 2013	2008-2010	UK	29286	12-13	F	—	—	—	—	94.4	93.6	91.4
+Bowyer et al, 2014	2009-2010	UK	606	16-17	F	—	—	—	—	59.8	—	16.8
+Fagot et al., 2011	2007	France	1204588	14-23a	F	—	—	—	—	50.8	—	33.3
+ 	2008	 	 	 	 	 	 	 	 	41.7	—	23.7
+ 	2009	 	 	 	 	 	 	 	 	20.5	—	—
+Mollers et al, 2014	2010	Netherlands	2989	16-17	F	—	—	—	—	65.0	—	—
+Stöcker et al, 2013	2010	Germany	442	14-18 (F)
+13-19 (M)	Fb	—	—	44.6	—	59.6	—	41.0
+Widgren et al, 2011	2009	Denmark	33838	13	F	—	—	—	—	80.0	75.0	62.0
+ 	Patel et al, 2017	2015	Latvia	121	16-21	M, F	—	—	—	—	3.3	—	—
+ 	Hansen et al, 2015	2013	Norway	70870	12-13	F	—	—	—	—	78.2	—	74.6
+ 	Feiring et al, 2015	2013	Norway	65843	NR	F	—	—	—	—	78.3	—	73.6
+America	Bastani et al, 2011	2009	USA	490	9-18 (13.9)	F	—	—	—	—	29.0	—	12.0
+Brewer et al, 2011	2007-2008	USA	650	10-18 (14)	F	—	—	—	62.0	35.7	—	21.0
+Caskey et al, 2009	2007	USA	412	13-17c (15)	F	—	—	—	—	30.0	—	—
+Dorell et al, 2011	2008-2010	USA	18 228	13-17 (NR)	F	—	—	—	32.7	40.5	—	21.6
+Gerend et al, 2013	2010	USA	200	9-18 (13)	F	—	—	—	82.0	18.0	—	5.5
+Kepka et al, 2012	2009	USA	78	9-17 (NR)	F	—	—	—	—	34.6	—	—
+Reiter, Katz, et al, 2013	2008	USA	1951	13-17 (NR)	F	—	—	—	41.0	32.4	—	19.2
+ 	2009	 	 	 	—	—	—	—	44.6	—	29.4
+ 	2010	 	 	 	—	—	—	—	45.4	—	34.5
+Wong et al, 2011	2008	USA	2205	9-17 (NR)	F	—	—	—	—	18.0	—	—
+Yeganeh et al, 2010	2008	USA	95	11-17 (14.6)	F	—	—	—	—	37.0	—	—
+Perkin et al, 2013	2010-2011	USA	120	11-17 (14 ± 2.3)	M	—	—	—	75.0	30.0	—	—
+Reiter, Gilkey, et al, 2013	2010-2011	USA	22 365	13-17 (NR)	M	—	—	—	31.0	4.9	—	0.7
+Reiter, McRee, et al, 2013	2010-2011	USA	228	11-17 (NR)	M	—	—	19.0	28.0	8.0	—	4.0
+Blumenthal et a., 2012	2007-2008	USA	223	13-18 (15.9)	M, F	52.0	—	—	—	33.0	—	—
+Johnson et al, 2017	2013	USA	18 264	13-17	M, F	—	—	43.0	—	44.8	—	25.7
+Lee et al, 2016	NR	USA	130	12-17	F	—	—	—	61.6	32.6	—	—
+Glenn et al, 2015	2009	USA	450	9-18	F	—	69.6	—	32.7	32.7	—	—
+Kepka, Warner et al, 2015	2013	USA	67	11-17	M, F	—	—	—	52.3	37.3	—	—
+Colón-López et al, 2015	NR	USA	60	9-17 (12.9 ± 2.6)	M	—	—	—	83.8	31.7	—	—
+Kepka, Ding et al 2015	2013	USA	118	11-17	M, F	—	—	—	—	32.5	—	—
+Gross et al, 2015	2011-2013	USA	1372	9-17	M, F	—	—	—	—	15.9	10.5	8.3
+Hechter et al, 2015	2009-2010
+2010-2011
+2011-2013	USA	29 7703
+35 7384
+34 5348	9-17	M	—	—	—	—	1.6
+3.4
+18.5	—
+—
+—	—
+—
+—
+Lindley et al, 2016	2013	USA	18 264	13-17	M, F	—	—	—	40.1	45.7	—	25.5
+Ogilvie et al, 2010	2009	Canada	2025	11	F	—	—	—	50.0	65.1	—	—
+Perez et al, 2016	2014	Canada	3117	9-16	M	—	—	—	6.8	1.1	0.6	—
+McClure et al, 2015	2013-2014	Canada	1450	NR	M, F	—	—	—	—	87.4	85.2	81.4
+Australia	Brotherton et al, 2013	2011	Australia	1 928 933	12-17 (NR)	F	—	—	—	—	83.0	78.0	70.0
+Abbreviations: NR, not reported; M, male; F, female; —, not applicable.
+a
+In the French study, data for the “target group” (girls born from 1993 to 1995) were picked to indicate the uptake by French adolescent girls, as the uptake data in the “catch-up group” was mixed with data on the uptake by young women.
+b
+In the German study, data represent the uptake by adolescent girls. The study population included males, but no vaccine was offered to males at that time.
+c
+The study by Caskey et al (2009) in the United States included both adolescent girls (13-17 years old) and young women (18-26 years old); only the data for the adolescent girls was included in this review.
+Key Findings
+The key findings of the review focused on the uptake of the vaccination (including acceptability and intention), the associated factors (awareness and knowledge), and the facilitators of and barriers to HPV vaccination.
+Vaccination Uptake
+Acceptability of the Vaccine
+Only 2 studies examined the acceptability of HPV vaccination to adolescents—one from the United States24 and the other from Hong Kong25 (Table 1). Adolescents in Hong Kong reported a lower rate of acceptance (27.1%) of HPV vaccination in comparison with adolescents in the United States (52%). Two studies examined the acceptability of HPV vaccination—one from the United States26 and the other from Hong Kong.25 Parents who accepted the HPV vaccine rose from 27.5% in 2008 to 37.6% in 2012 in Hong Kong,25 but the rate of acceptance was lower than that reported in the United States (69.6%).26
+Vaccine Intention
+Vaccination intention can be considered an indication of how prepared a person is to take action to be vaccinated against HPV before any such action is actually taken. Only 4 studies examined the adolescents’ vaccination intention. Only moderate intention was observed in adolescents from Germany (44.6%), followed by Hong Kong (34.8%), and the United States (19%-43%).27-30 Fourteen studies examined the intention of parents to allow their child(ren) to be vaccinated against HPV. Twelve of those studies, conducted in the United States, reported a range of 32.7% to 82% of female adolescents, and 28% to 83.8% of male adolescents intended for vaccination.29-42
+Actual Uptake
+Vaccination uptake refers to the action of vaccinating against HPV. The studies reported on the uptake of HPV vaccines for 1 dose, and for the complete series of 3 doses (Table 1). Of the studies reported on the complete series, all but one only reported the proportion of those who received 2 doses.
+All 42 studies reported on the proportion of adolescents who had received at least 1 dose of HPV vaccine, with the range varying greatly from 1.1% to 94.4%. At 94.4%, the UK-Scotland study achieved the highest HPV vaccination uptake rate, followed by Taiwan (91%), Prince Edward Island in Canada (87.4%), Australia (83%), Denmark (80%), and Malaysia (77.9%). The rates in Japan, the Netherlands, and Germany barely exceeded 50%. Of all the included studies, Hong Kong and another study from pan-Canada38 recorded the lowest uptake of 2.4% to 9.1%, and 1.1% respectively.
+On the proportion of adolescents who received the complete series of the HPV vaccination, the range also varied greatly from 0.7% to 91.4%. Again, the UK-Scotland achieved the highest uptake here, at 91.4%, followed by Taiwan (89%), Prince Edward Island in Canada (81.4%), Australia (70%), and Denmark (62%), Japan (48.2%), and Germany (41%), France (range 23.7%-33.3%), and the United States (range 0.7%-27.7%). No report on the uptake of the complete series of the HPV vaccination was found in the studies conducted in Hong Kong.
+Only 5 studies from the United States29,34,35,41,43 and 1 study from Canada38 reported the HPV vaccination rate among adolescent males. The uptake rate of US adolescent males was significantly lower (range 4.9%-31.7%) than that of US adolescent females (range 18%-45.4%). Among males, the rate of those who completed the vaccination series was also low (0.7%-4.0%) compared with that of females (5.5%-34.5%). Similar situation was found in Canada. The uptake rate of Canadian adolescent males was significantly lower (1.1%) than that of the adolescent females (65.1%).
+Associated Factors: Awareness and Knowledge of HPV, Maternal Level of Education
+Awareness and knowledge of HPV were commonly measured together in these studies. Awareness was usually measured by determining whether the participants had ever heard of HPV (virus), the HPV vaccine, or cervical cancer. Knowledge was commonly measured by examining whether the participants had a deeper understanding of HPV-related infections, risk factors, and the route of transmission. The maternal level of education was also identified to be associated with the uptake of HPV vaccination.
+Awareness
+Only 5 studies examined adolescent awareness of HPV (Table 2). These studies were conducted in Hong Kong,25,28 Malaysia,44 the United States,24 and Latvia.45 Only slightly more than a quarter of the adolescents in Hong Kong had ever heard of HPV (28.8%) and of the HPV vaccine (40.3%).25 Adolescents in Latvia45 had less awareness of HPV (21.5%) and HPV vaccine (9.9%) than those in Hong Kong. Girls in Malaysia reported a higher awareness of HPV infection (77.6%).44 Three studies reported that most of the adolescents had heard of cervical cancer (range 69%-95.9%).24,28,44
+Table 2. Human Papillomavirus (HPV) Awareness of Adolescents and Parents.
+Authors, Year	Country/Region	HPV Awareness
+Heard of HPV (%)	Heard of HPV Vaccine (%)	Heard of Cervical Cancer (%)	Heard of Pap Screening (%)	Heard of STI (%)
+Adolescents
+ Al-Naggar et al, 2012	Malaysia	77.6	—	69.0	—	—
+ Choi et al, 2013	Hong Kong	28.8	40.3	—	—	—
+ Lee et al, 2014	Hong Kong	—	—	95.9	—	—
+ Blumenthal et al, 2012	USA	—	—	75.0	46.0	91.0
+ Patel et al, 2017	Latvia	21.5	9.9	—	—	—
+Parents
+ Choi et al, 2013	Hong Kong	68.5a	43.7a	—	—	—
+ Bastani et al, 2011	USA	63.0	61.0	—	—	—
+ Dorell et al, 2011	USA	92.0	85.3	—	—	—
+ Gerend et al, 2013	USA	49.0	49.0	—	—	—
+ Kepka et al, 2012	USA	62.8	—	85.5	—	—
+ Perkin et al, 2013	USA	53.0	55.0	—	—	—
+ Reiter, Gilkey, et al, 2013	USA	78.8	82.0	—	—	—
+ Reiter, Katz, et al, 2013	USA	83.6	95.0	—	—	—
+ Yeganeh et al, 2010	USA	—	77.0	—	—	—
+ Lee et al, 2016	USA	45.0	—	—	—	—
+ Glenn et al, 2015	USA	63.6	64.4	—	—	—
+ Kepka, Warner et al, 2015	USA	77.6	77.6	86.1	—	—
+ Colón-López et al, 2015	USA	91.7	—	—	—	—
+ Ogilvie et al, 2010	Canada	92.7	—	—	—	—
+Abbreviations: STI, sexually transmitted infection; —, not applicable.
+a
+Represents data for the year 2012.
+Fourteen studies examined HPV awareness from the perspective of parents (Table 2). They were conducted in the United States.26,32-36,39-41,46-48 Canada,37 and Hong Kong,25 Nearly half of the parents had ever heard of HPV (45%-92.7%) and the HPV vaccine (43.7%-95%); only 2 of the studies reported on awareness of cervical cancer (85.5%-86.1%).
+Knowledge
+Six studies examined the HPV knowledge of adolescents. These were conducted in Hong Kong,28 the United States,24 Germany,27 the Netherlands,49 the United Kingdom,50 and Latvia.45 The adolescents’ level of knowledge of HPV varied across countries (Table 3).
+Table 3. Studies Examining the Human Papillomavirus (HPV) Knowledge of Adolescents and Parents Across Countries.
+Authors, Year (Country/Region)	HPV Knowledge
+Cervical cancer is a common female cancer (%)	Pap test purpose (%)	HPV is STI (%)	HPV may cause genital warts (%)	Unprotected sex leads to a higher risk of HPV infection (%)	HPV is a causative risk factor of cervical cancer (%)	Most HPV infections clear up on their own (%)	Having multiple sex partners increases the risk of developing cervical cancer (%)	Cervical cancer can develop in any woman who has engaged in sexual activity (%)	HPV vaccination does not protect against all types of HPV (%)	HPV vaccination does not protect against all STIs (%)	HPV does not always lead to cervical cancer (%)	Cervical cancer is not always fatal (%)	HPV knowledge score (mean ± SD)
+Adolescents
+ Lee et al, 2014 (Hong Kong)	92.9	52.8	—	—	—	41.1	—	48.2	52.5	—	—	—	—	—
+ Blumenthal et al, 2012 (USA)	—	26.0	—	—	—	—	—	—	—	—	—	—	—	—
+ Stocker et al, 2013 (Germany)	—	—	73.1 (F)
+52.5 (M)	—	—	—	—	—	—	—	—	—	—	—
+ Mollers et al, 2014 (Netherlands)	—	—	—	20.0	73.0	81.0	5.0	—	—	62.0	88.0	68.0	82.0	—
+ Bowyer et al, 2014 (UK)	—	—	—	—	—	—	—	—	—	—	—	—	—	8.87 ± 2.29 (range 0-15)
+ Patel et al, 2017 (Latvia)	—	—	—	26.9	—	73.1	—	—	—	—	—	—	—	—
+ 	HPV causes genital warts (%)	HPV can be asymptomatic (%)	HPV can cause abnormal Pap smears (%)	HPV is an STI (%)	HPV can cause oral & anal cancer (%)	HPV can cause cervical cancer (%)	HPV is a common infection during one’s lifetime (%)	Held the misconception that only 1 injection is need for an HPV vaccination (%)	HPV knowledge score (mean ± SD)	HPV vaccine knowledge score (mean ± SD)	 	 	 	 
+Parents
+ Perkin et al, 2013 (USA)	25.0	43.0	47.0	48.0	29.0	52.0	—	—	—	—	 	 	 	 
+ Kepka et al, 2012 (USA)	—	62.3	—	—	—	42.3	41.6	29.5	—	—	 	 	 	 
+ Gerend et al, 2013 (USA)	—	—	—	—	—	—	—	—	6.10 ± 1.71 (range 2-9)	3.32 ± 1.12 (range 0-5)	 	 	 	 
+ Lee et al, 2016 (USA)	—	—	—	—	—	66.9	—	—	—	—	 	 	 	 
+ Glenn et al, 2015 (USA)	—	—	—	—	—	70.4	—	—	—	—	 	 	 	 
+ Kepka, Warner et al, 2015 (USA)	—	—	—	—	—	—	—	62.7	—	—	 	 	 	 
+ Lindley et al, 2016 (USA)	—	—	—	—	—	—	—	1.1	—	—	 	 	 	 
+Abbreviations: STI, sexually transmitted infection; F, females; M, males; —, not applicable.
+In the United States, most adolescents understood sexually transmitted infections (STIs) (91%); however, they showed limited knowledge of Pap screening (46%) and its purpose (26%).24 In Germany, 73.1% of girls and 52.5% of boys knew of HPV as an STI.27 In the Netherlands, more than half of adolescent girls recognized that the HPV vaccination would not protect against all types of HPV (62%) and all STIs (88%).49 Most girls recognized that HPV is a risk factor in cervical cancer (81%). The majority of them knew that an HPV infection will not always lead to cervical cancer (68%), and that cervical cancer is not always fatal (82%), and yet that unprotected sex will lead to a high risk of HPV infection (73%).49 Some girls knew that an HPV infection could cause genital warts (20%), yet that it could clear up on its own (5%).49
+In Hong Kong, nearly all girls understood that cervical cancer is a common female cancer (92.9%).28 About half of them knew the purpose of the Pap test (52.8%), understood that HPV is a risk factor in cervical cancer (41.1%), and that the risk of developing cervical cancer increases with multiple sex partners (48.2%).28 Finally, only half of the girls had learned that cervical cancer can develop in any women who has engaged in sexual activity (52.5%).28 In the study conducted in the United Kingdom, only a mean score on HPV knowledge was given (8.87, SD = 2.29, range 0-15).50 In Latvia, slightly more than a quarter of adolescents knew that an HPV infection could cause genital warts (26.9%), but majority of them knew that HPV was a causative risk factor of cervical cancer (73.1%).45 Overall, the adolescents in the various countries had a limited understanding of HPV-related infections, risks, and consequences (Table 3).
+Seven studies conducted in the United States examined the knowledge of HPV among parents.26,33,34,46,39,40,42 Some parents knew that HPV could cause genital warts (25%), understood HPV as an STI (48%), and realized that the disease is asymptomatic (range 43%-62.3%, 2 studies).34,46 Nearly half of them knew that HPV can cause abnormal Pap smears (47%) and lead to cervical cancer (range 42.3%-70.4%). However, only 29% of the parents recognized that HPV can also cause oral and anal cancer (29%), and is a common infection during a person’s lifetime (41.6%).34,46
+Surprisingly, a range of 1.1% to 62.7% of parents were mistaken that only 1 HPV injection is needed for vaccination.40,42,46 One study measured their HPV knowledge by quantifying weighted scores.33 These studies indicate that, overall, US parents have a fair knowledge of HPV (Table 3).
+Maternal Level of Education
+The maternal level of education was identified as a significant factor for the uptake of HPV vaccination.35,37,44,51-54 However, the influence of maternal education was not consistent across countries. In Canada, the United States, and Norway, parents with higher education were less likely to vaccinate their children against HPV.35,37,53,54 These parents were more likely to conduct an information search over the Internet when compared with less educated parents.37 By retrieving medical information on their own, educated parents felt confident about their ability to assess and weigh their daughters’ risk of contracting HPV infections, and to make the decision without consulting health care providers.37 Moreover, these educated parents felt comfortable about declining the offer to have their children vaccinated against HPV in a publicly funded programme, as they felt that they could purchase the vaccine themselves if they changed their mind in the future.37 However, other studies reported that parents with less education were more likely to accept such offers.44,52
+The study conducted in Hong Kong reported that a higher level of maternal education was positively associated with the uptake of the HPV vaccine for children, with girls whose mothers had a tertiary education being more than twice more likely to be vaccinated against HPV than those with less educated mothers.51
+Facilitators of and Barriers to the Uptake of HPV Vaccination
+In reviewing the literature, some common facilitating factors and barriers affecting the uptake of HPV vaccination were identified. They are listed in Table 4.
+Table 4. Facilitators of and Barriers to the Uptake of Human Papillomavirus Vaccination.
+Facilitators	Barriers
+• Physician recommendation26,29,30,32-35,37,42-44,48,50,51
+• Parental acceptance36,46
+• Peer encouragement21,36
+• Health insurance coverage31,46	• Cost of vaccine25,28,32,51-53
+• Parental concern:
+ - Child not sexually active 32,36,51,53
+ - Concern about the safety of the vaccine27,36,37,48,51,54
+ - Think that vaccination will encourage sexual activity36,37,48
+• Lack of information31,32,36,38,40,47,53,54
+• Prefer to wait till their children are older37
+Facilitators
+Of the 42 articles, one-third reported that one of the major facilitators of HPV vaccination among adolescents was the recommendation of a physician or other health care provider.26,29,30,32-35,37,42-44,48,50 Doctors and health care providers were reported to be the most trusted source of health information for parents.48,55 It was also reported that their recommendation was a major reason why parents decided to have their child vaccinated against HPV.26,30,32,34,35,37,43,44,48 Other facilitators of HPV vaccination were parental acceptance,36,46 peer encouragement,21,36 and health insurance coverage.31,46
+Vaccination programmes, school-based and community-based, was also identified as a facilitator for HPV vaccination.37,51,56-60 A school-based vaccination programme can achieve a vaccination uptake rate of 65.1% to 94.4% for at least 1 dose, as seen in Taiwan, Australia, Canada, Scotland, and Norway.37,53-56,58,60 These studies supported that implementing HPV vaccination through a school-based approach is an effective way of reaching targets directly. Parents are also easily contacted for consent, and schools can be the ideal channel for health promotion and education.58 HPV vaccine uptake rates in non–school-based HPV vaccination programmes were lower.57,61 The coverage in a non–school-based vaccination approach implemented among 14-year-old girls in France was 50.8% in 2007, 41.7% in 2008, and 20.5% in 2009, with 65% of the cost of the vaccination reimbursable by National Health Insurance.59
+Denmark’s offer of free vaccinations for eligible young girls in the community resulted in uptakes of 80%, 75%, and 62% for the first dose, second dose, and third dose, respectively, in 2009.61 In Japan, a publicly funded clinic-based vaccination programme in Shiki City for girls aged 11 to 15 years achieved the coverage rates of 64.8%, 62.7%, and 48.2% for first, second, and third dose.57
+Barriers
+The cost of the vaccine and parental concerns were the reasons why the parents did not get their children vaccinated against HPV. The cost of HPV vaccines is a major obstacle to the uptake of vaccination, and this was reported in 6 studies.25,28,32,51,52,55 Two studies conducted in the United States reported that health insurance coverage was significantly associated with HPV vaccination, as uninsured girls had the lowest rate of vaccination.32,55 The study in Hong Kong revealed that parents and adolescent girls were concerned about the high cost of the vaccine, and that low-income families may not be able to afford the HPV vaccination if they had to pay for the entire cost themselves.25,51 Parents were willing to get their children vaccinated if the cost of the HPV vaccination was more affordable.25,52
+Parental concerns about the safety of the HPV vaccine and its potential side effects were reported to hinder the uptake of vaccination from studies conducted in the United States, the United Kingdom, Germany, and Canada, given that the vaccine is relatively new in the market.62
+Many parents believed that their children were at low risk of contracting an HPV infection. Many felt that their children were too young to be sexually active or believed that their children were sexually inactive, and regarded the HPV vaccination as unnecessary.32,36,52,55 Some parents were also concerned that vaccination would encourage their children to become sexually active, as the children would believe that they were protected from contracting STIs.36,37,48 Many parents were reluctant to vaccinate their children at a young age and would prefer to wait until their children are older.37 In addition, many of the parents complained that they had insufficient information and knowledge to make an informed decision.31,32,36,38,40,47,52,62
+Discussion
+This is the first literature review to explore the trends and factors in the uptake of HPV vaccination among adolescents worldwide.
+The studies that were included indicated a moderate level of awareness of the HPV vaccine; however, the knowledge of adolescents and parents regarding HPV infections was insufficient. Having knowledge is known to influence the uptake of the HPV vaccine, and many parents said that they did not have enough information to make an informed choice. It was reported in a study in Hong Kong that the major reason for the low vaccination uptake rate among adolescents was their lack of knowledge about the HPV vaccine.51 A better understanding of HPV infections and the importance of vaccination may increase the acceptability of HPV vaccination in the eyes of adolescents and parents, and thus its uptake by adolescents.
+As the public generally considered the health information and recommendations that they received from their physicians to be trustworthy, physicians should be invited to give public talks on HPV-related infections and HPV vaccines. In this review, a physician’s recommendation was identified as one of the key facilitators for the uptake of HPV vaccines. Health care professionals and the government should put more effort into health promotions and education to prevent HPV infections and encourage vaccination.
+Although the HPV vaccine has been available on the market for almost 10 years, coverage is still low. The global coverage of polio, measles, and hepatitis B immunizations has been estimated to be more than 80%.63 The HPV vaccine uptake rate for the first dose varies among countries, from 1.1% to 94.4%. Most countries have attained more than 50% coverage for at least first dose. Disappointingly, the coverage of HPV vaccination in the highly developed United States and Hong Kong is still low.
+It was found that the uptake of the HPV vaccine is significantly related to the issues of cost and affordability. The HPV vaccine is expensive for low-income families, costing US$130 per dose and $390 for the full series.13 In this review, a high uptake rate was observed in countries with publicly funded HPV vaccination programs, such in the United Kingdom and Australia. Removing the barrier of cost is likely to be an effective strategy for raising vaccination rates, and may prevent millions of premature deaths or unnecessary disability. Governments should consider including the HPV vaccine in their childhood routine immunization schedule on a voluntary basis, or providing a financial subsidy to increase the affordability of the vaccine.
+A discrepancy between genders in the HPV vaccine uptake rate has been observed in studies conducted among US and Canadian adolescents. Female adolescents were significantly more likely than males to receive at least one dose and the complete series, which is consistent with previous literature.64,65 Only 4 out of the 42 studies examined the awareness, knowledge, and intention of parents to vaccinate their boys. Adolescent boys were a neglected population in related studies. Besides the most common association between HPV and cervical cancer in females, many may not be aware that genital warts and oropharyngeal cancer is caused by HPV infections in males.
+The general public mistakenly regards HPV infection as a women’s disease, since the HPV vaccine was initially approved for females aged 9 to 26 years.64 It was 3 years later, in 2009, that approval for the use of quadrivalent HPV vaccine was extended to males, and its routine recommendation was issued by the Advisory Committee on Immunization Practices in 2011.8 Many parents regard HPV as irrelevant to boys, and only mattering to females, leading to the “feminization” of HPV.66 In fact, HPV infection is a common type of sexually transmitted infection that affects males and females in equal measure.67 Promotions of HPV vaccines and health education should be targeted at young females and males, as well as their parents.
+Limitations
+This study has few limitations. Because of the heterogeneity of the population and the inconsistent variables, the results could not be pooled in this review for statistical significance. There were few studies examining the knowledge of parents toward HPV, which can affect the rate at which adolescents get vaccinated against HPV.
+Most studies focused on awareness and knowledge, as if awareness and knowledge would have direct effects on uptake. Most studies included in the review were conducted in Western countries (eg, the United States), with fewer studies from Asia and none from Africa. The authors could only compare and retrieve what had been included in these studies. Also included were studies that mostly focused on the female adolescent population, with less attention paid to males, thus limiting the ability to make comparisons between genders. Numerous different tools were used to measure the same variables (such as knowledge, awareness, etc), making it difficult to make direct comparisons between studies.
+Implications for Practice
+Schools are a very good channel to reach adolescents. School-based sexual health education should be strengthened.48,68 For example, periodic talks on sexual health should be arranged in secondary schools to spread health messages, and posters could be displayed to raise awareness. Annual physical examinations could also be offered through the student health service, as part of health education in schools. Booklets and pamphlets about HPV infections could be distributed to students, with explanations by physicians and individual health counselling.
+Cost is the major barrier to the uptake of HPV vaccination, as was reported in many studies.25,28,51 Many developed countries, such as Australia and Canada, have already included HPV vaccines in their publicly funded national immunization program. Governments should consider offering free HPV vaccinations, as with childhood immunization programs. To have better access to young girls, it is suggested that HPV vaccines be administered through a school-based approach. From the public health perspective, HPV vaccination is a worthwhile prophylactic measure for a government to subsidize to prevent HPV-associated infections and severe illnesses. The cost of vaccination will certainly be more than compensated for by the future savings in medical costs, as well as by improvements in the health of the public in the long run.
+In Hong Kong, HPV vaccination is still an out-of-pocket expense. The high cost of vaccination has resulted in low uptake over the years. No recommendations on the use of HPV vaccines in Hong Kong at the population level were made in the report by the Scientific Committee on Vaccine Preventable Diseases under the Centre for Health Protection.69 Since September 2013, Macau, a neighboring city of Hong Kong, has also been offering free HPV vaccinations to adolescent girls.70 It is recommended that the Government of Hong Kong consider doing the same for girls in Hong Kong.
+With regard to the implications for research, further studies should be carried out to examine the relationship between the uptake of HPV vaccination and HPV infection rates and the trend in cervical cancer rates in the future. Since the Centers for Disease Control and Prevention recommended in 2011 that the HPV vaccine be administered to males, there will be more studies focusing on the male population. A future review could compare the differences between males and females with respect to their awareness, knowledge, and acceptance of HPV vaccination, their intention to get vaccinated against HPV, and their actual uptake of HPV vaccination.
+Conclusions
+The vaccine uptake is still low in various countries. Both adolescents and their parents had limited awareness and knowledge of HPV infections and vaccines, even 10 years after the vaccine had become available. It is recommended that barriers to uptake of the vaccine should be addressed, and that school-based sexual health education of HPV infection and vaccine promotion should be reinforced.

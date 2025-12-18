@@ -1,0 +1,53 @@
+Review
+HPV vaccine acceptability in Africa: A systematic review
+Author links open overlay panel
+Melissa S. Cunningham a
+, Colleen Davison a b, Kristan J. Aronson a c
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.ypmed.2014.08.035
+Get rights and content
+Highlights
+•
+We review factors associated with HPV vaccine acceptability in African countries.
+•
+The Health Belief Model was used to guide data abstraction and synthesis.
+•
+Acceptability of the HPV vaccine in this region is predicted to be high.
+•
+Broad knowledge gaps were highlighted regarding HPV and cervical cancer.
+•
+Education on effectiveness and reducing perceived barriers will be useful.
+Abstract
+Objective
+The objective of this study was to provide a systematic review of peer-reviewed literature on the factors associated with HPV vaccine acceptability among adults in African countries.
+Methods
+A systematic search was conducted across five electronic databases: EMBASE, PsychINFO, CINAHL, Global Health and Ovid MEDLINE, to identify studies related to HPV vaccination acceptability in African countries (August 2013). The Health Belief Model was used to guide data abstraction and synthesis.
+Results
+Fourteen unique studies representing ten sub-Saharan African countries were identified, with more than half published within the last two years. Acceptability of the HPV vaccine for daughters was high (range 59–100%); however, vaccine-related awareness and knowledge were low. Perceived barriers including accessibility and cost concerns were important for acceptance, as were cues to action from healthcare providers and governments.
+Conclusions
+This review suggests that acceptability of the HPV vaccine in countries in this region will be high. Broad knowledge gaps were highlighted regarding HPV and cervical cancer and these should be addressed. Education on the vaccine's effectiveness and reducing perceived barriers to vaccination would also be useful. Public endorsement by governments and healthcare providers will likely also increase acceptance.
+Introduction
+The quadrivalent human papillomavirus (HPV) vaccine is manufactured by Merck & Co. and has been available commercially since 2006. The vaccine protects against strains of HPV that cause approximately 70% of cervical cancer cases and 90% of anogential wart cases worldwide. The cost is high (approximately $400 US for a three-series dose) and until recently this presented a significant barrier to implementation within low-resource countries. The Global Alliance for Vaccine Initiatives (GAVI) recently negotiated a $4.50/dose fee for GAVI-supported countries. At the same time, GAVI announced support for eight projects in African countries that will begin over 2013–2014 (GAVI, 2013). This is positive as in the past there have been decades of delay between new vaccine production and implementation in developing countries (Kane et al., 2006).
+African countries carry the largest burden of cervical cancer worldwide. Globally, the prevalence of HPV infection is estimated at 11–12%; however in sub-Saharan Africa (SSA) the estimate is substantially higher at 24% (Forman et al., 2012). In 2008, world estimates of new cervical cancer cases were 530,000, and 75,000 of these were from SSA countries, representing almost 15% of the world's burden (Forman et al., 2012). This burden is largely due to the lack of organized, preventative services, such as cytological screening (i.e. Pap smears), and the prevalence of risk factors for the disease (Bosch and de Sanjosé, 2003, Sankaranarayanan and Ferlay, 2006). Coinfection with HIV also increases the risk of HPV infection and progression by substantially reducing immunity (Palefsky et al., 2006). Promisingly, widespread vaccination with the HPV vaccine is expected to substantially reduce the burden of cervical cancer, especially when combined with other preventative measures (Garnett et al., 2006).
+Health behaviors are conceptually complex and a number of frameworks have been used for their explanation. One that has been used to understand vaccination and cervical cancer screening behaviors in the past is the Health Belief Model (HBM) (Allen et al., 2010, Brewer and Fazekas, 2007, Johnson et al., 2008, Prematunge et al., 2012). As an expectancy model, the HBM predicts that an individual's health behavior will depend on the value placed on achieving a goal and the belief that a certain behavior will achieve that goal (Poss, 2001). The model includes aspects of perceived likelihood (individual susceptibility), perceived severity, and perceived effectiveness and benefits. There are also cues to action (external or internal stimuli) and perceived barriers to action. In this review, in addition to these five constructs, HPV vaccine-related awareness and knowledge and other modifying factors previously found to predict acceptability are included.
+The purpose of this paper is to present a systematic review of peer-reviewed literature on the factors associated with HPV vaccine acceptability among adults with and without children from African countries. Acceptability in this context refers to a reported/predicted willingness and intention to receive a vaccination, and not actual uptake. A systematic review similar to this topic has been published recently (Perlman et al., 2014); however the current review is unique in its focus on adults, the quantification of results and use of the HBM framework which allows comparability to a previous US review (Brewer and Fazekas, 2007).
+Access through your organization
+Check access to the full text by signing in through your organization.
+
+Section snippets
+Search strategy
+A health sciences librarian with experience conducting systematic reviews assisted with the search of five electronic databases: EMBASE, PsychINFO, CINAHL, Global Health and Ovid MEDLINE (August 2013). All literature relating to HPV vaccination in African countries was sought and the search consisted of database-specific vocabulary and use of Boolean operators for: human papillomavirus vaccin* and Africa. No restriction was placed on date or language. Reference sections of included articles
+Results
+As shown in Fig. 1, 229 unique articles were identified after database searches, 29 were given full-text review with 14 meeting inclusion criteria. One article was identified by hand-searching (Ports et al., 2013). The final number of articles included in this review is 15 representing 14 unique studies (Table 1). These studies span ten countries from SSA: Botswana (1), South Africa (2), Nigeria (2), Kenya (3), Ghana (1), Uganda (1), Mali (1), Zambia (1), Tanzania (1) and Malawi (1). At the
+Discussion
+This systematic review found high acceptance of the HPV vaccine among young adults, adults, and parents in SSA countries, despite low awareness of HPV and the HPV vaccine. This review was structured using the Health Belief Model (HBM) and demonstrates the utility of the HBM for integrating qualitative and quantitative research findings for understanding the factors influencing vaccine acceptance.
+The included studies were moderately-sized, quantitative cross-sectional studies and qualitative
+Conclusion
+Implementation of the HPV vaccine in African countries is an important step towards reducing the high burden of cervical cancer in this region. Recent announcements from the GAVI of HPV vaccine demonstration projects beginning in SSA offer an encouraging step toward this goal. Based on this review, the acceptability and uptake of the HPV vaccine among these countries are expected to be high. However, broad knowledge gaps have been highlighted and should be addressed. Efforts to educate about

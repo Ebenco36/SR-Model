@@ -1,0 +1,164 @@
+Windows
+conda create -n .wvenv_db python=3.9
+conda activate .wvenv_db
+C:\ProgramData\Anaconda3\Scripts\activate .wvenv_db
+pip install -r /Users/awotoroe/Desktop/mpvis/requirements.txt
+
+streamlit run src\app.py
+
+pip install PyPDF2
+
+net use Y: \\sshfs.r\%USERNAME%@hpc-login01.rki.local\scratch\%USERNAME%
+
+net use /PERSISTENT:YES Z: \\sshfs.r\%USERNAME%@hpc-login01.rki.local\scratch\%USERNAME%
+
+\\sshfs.r\%USERNAME%@hpc-login01.rki.local\scratch\%USERNAME%
+
+net use Y: \\sshfs.r\%USERNAME%@hpc-login01.rki.local\scratch\%USERNAME% /user:awotoroe mypassword_was_here /p:yes
+
+
+docker build -t sense_project .
+
+docker-compose up --build -d
+
+docker compose -f docker-compose.yml up -d
+
+touch /opt/homebrew/etc/openssl@3/certs/.pem
+
+
+python manage.py db drop && rm -rf migrations && python manage.py db init && python manage.py db migrate -m "Initial migration" && python manage.py db upgrade
+
+docker tag my_image my_registry/my_repository:latest
+docker tag dbmerge-sense_app:latest ebenco36/dbmerge-sense_app:latest
+
+docker push ebenco36/dbmerge-sense_app:latest
+
+docker pull my_registry/my_repository:latest
+
+docker run -p 8080:5500 --name my_container -d my_registry/my_repository:latest
+
+
+snakemake -j 4
+
+
+gunicorn -w 4 server:app -p 5400
+
+gunicorn -w 4 -b 0.0.0.0:5400 server:app
+
+ gunicorn -w 4 -b 0.0.0.0:5400 --reload server:app
+ gunicorn -w 4 -k sync --preload -b 0.0.0.0:5400 --reload server:app
+
+
+RUN TEST
+pytest -s
+
+
+sh -c "$(curl -fsSL https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/install-edirect.sh)"
+sh -c "$(wget -q https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/install-edirect.sh -O -)"
+
+https://www.nlm.nih.gov/bsd/mms/medlineelements.html#dp
+
+python -m venv sense_app
+
+
+brew install pyenv
+
+pyenv install --list
+
+
+pyenv install 3.11
+
+
+pyenv global 3.8.10
+
+
+
+pyenv local 3.11
+/Users/AwotoroE-Dev/.pyenv/versions/3.11.9/bin/python
+
+
+gunicorn -w 4 --graceful-timeout 30 -k gevent -b 0.0.0.0:5400 --reload server:app
+
+gunicorn --preload --bind 0.0.0.0:5400 server:app
+
+gunicorn --preload --bind 0.0.0.0:5400 --access-logfile ./logs/access.log --error-logfile ./logs/error.log -m 007 server:app
+
+
+Seed data to database
+=====================================================
+python ./src/Commands/dynamic_table.py ./Data/OVID/data.csv ovid_db --primary DOI --fallback 'Digital Object Identifier'
+python ./src/Commands/dynamic_table.py ./Data/L-OVE/LOVE.csv  love_db --primary id
+python ./src/Commands/dynamic_table.py ./Data/Cochrane/cochrane_combined_output.csv  cochrane_db --primary 'cdIdentifier'
+python ./src/Commands/dynamic_table.py ./Data/MedlineData/medline_results.csv  medline_db --primary 'PMID'
+
+python ./src/Commands/UnifyCSV.py
+python ./src/Commands/DOIEnricher.py
+python ./src/Commands/dynamic_table.py ./HPV_training_set_HHL_AP_complete.csv  rough_db --primary 'Id'
+
+
+python ./src/Commands/dynamic_table.py ./Data/output/unified_output.csv  all_db
+python ./src/Commands/dynamic_table.py ./Data/output/data-hpv-influenza.csv  all_db
+python ./src/Commands/dynamic_table.py ./Data/output/test_hpv_data.csv  all_db
+
+100 samples
+python ./src/Commands/dynamic_table.py ./Data/100_samples.csv  all_db
+
+python ./src/Commands/dynamic_table.py ./Data/all_db_with_tagging.csv  all_db
+
+
+python ./src/Commands/CountryRegionManager.py
+example: python script.py data.csv my_table --primary id_column1 id_column2 --fallback fallback_column1 fallback_column2
+Tagging pipeline for all papers
+=====================================================
+python .src/Commands/PaperProcessorPipeline.py
+
+28376
+
+
+# Install Airflow (replace `constraints_url` with the correct version from Airflow's website)
+export AIRFLOW_VERSION=2.6.2
+export PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+export CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+
+Quadrivalent vaccines for the immunization  of adults against influenza: a systematic review
+
+Testing
+
+python ./src/Commands/dynamic_table.py ./enriched_output.csv  all_db --primary 'unique_id'
+docker compose --env-file .env -f docker-compose.yml up -d
+
+export FLASK_APP=app:create_app
+export CELERY_APP=celery:make_celery
+
+
+export CELERY_APP=celery_app:celery
+celery -A celery_app:celery worker --beat --loglevel=info
+
+celery -A celery_app:celery worker --beat \
+    --pool=threads \
+    --concurrency=4 \
+    --loglevel=info
+
+celery -A celery_app:celery worker \
+    --pool=solo \
+    --loglevel=info
+
+prod
+celery -A app:create_app beat --loglevel=info
+celery -A app:create_app worker --loglevel=info
+
+
+
+conda init --reverse $SHELL`
+
+conda config --set auto_activate_base false
+
+!python -m src.Services.Factories.NITAGSystem
+
+
+ulimit -c unlimited
+python -X faulthandler -m gunicorn server:app -w 1 --log-level debug
+
+Working well
+waitress-serve --listen=127.0.0.1:5400 server:app
