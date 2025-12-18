@@ -1,0 +1,14 @@
+{
+  "train": [
+    "paper2",
+    "paper4",
+    "paper3",
+    "paper"
+  ],
+  "dev": [
+    "paper5"
+  ],
+  "test": [
+    "paper5_new"
+  ]
+}

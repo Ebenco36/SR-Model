@@ -122,6 +122,5 @@ sr_models/
 sr_retrieval.jsonl
 .venv_/
 .python-version
-dataset_scaffold/
 error.log
 requirements3eee.txt
