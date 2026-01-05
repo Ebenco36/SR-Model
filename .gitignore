@@ -101,7 +101,7 @@ data.json
 e019206.full.pdf
 extraction_results.csv
 loke-et-al-2017-the-uptake-of-human-papillomavirus-vaccination-and-its-associated-factors-among-adolescents-a.pdf
-model.ipynb
+# model.ipynb
 nihms-1635551.pdf
 systematic_review_templates.csv
 systematic_review_vocab.csv
@@ -111,7 +111,7 @@ checkpoints/
 comparison_outputs/
 fuzzy_matches.csv
 model1.ipynb
-models2.ipynb
+# models2.ipynb
 output.png
 output2.png
 outputs/

@@ -8,11 +8,11 @@ Purpose:
     returns structured JSON using semantic similarity instead of Regex.
 
 Features:
-  ✅ Handles complex nested structures
-  ✅ Semantic tagging (not regex)
-  ✅ Handles paraphrasing and synonyms
-  ✅ Extracts dates, countries, study counts
-  ✅ Returns clean JSON structure
+  Handles complex nested structures
+  Semantic tagging (not regex)
+  Handles paraphrasing and synonyms
+  Extracts dates, countries, study counts
+  Returns clean JSON structure
 """
 
 import json
