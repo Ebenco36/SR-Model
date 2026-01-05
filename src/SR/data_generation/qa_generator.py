@@ -4,12 +4,12 @@ QA DATASET GENERATION FROM NER EXTRACTIONS
 for Infectious Disease Systematic Reviews
 
 Features:
-- ✅ Generates QA pairs from NER extraction results
-- ✅ Multiple question templates per entity type
-- ✅ Handles multiple answers per document
-- ✅ Proper SQuAD-style JSONL format
-- ✅ Balance control and deduplication
-- ✅ Progress tracking and validation
+- Generates QA pairs from NER extraction results
+- Multiple question templates per entity type
+- Handles multiple answers per document
+- Proper SQuAD-style JSONL format
+- Balance control and deduplication
+- Progress tracking and validation
 """
 
 import argparse

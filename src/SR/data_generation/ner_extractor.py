@@ -4,13 +4,13 @@ PRODUCTION-READY NER EXTRACTION SYSTEM
 for Infectious Disease Systematic Reviews (55 Entity Types)
 
 Features:
-- ✅ Full error handling and logging
-- ✅ Both rule-based and LLM extraction for 55 entity types
-- ✅ Progress tracking and resume capability
-- ✅ Validation and deduplication
-- ✅ JSONL output with proper formatting
-- ✅ Comprehensive unit tests
-- ✅ Configuration management
+- Full error handling and logging
+- Both rule-based and LLM extraction for 55 entity types
+- Progress tracking and resume capability
+- Validation and deduplication
+- JSONL output with proper formatting
+- Comprehensive unit tests
+- Configuration management
 """
 
 import argparse
